@@ -1,5 +1,5 @@
 [submodule "TIDZ"]
-	path = tidz
+	path = TIDZ
 	url = https://github.com/arfshukhov/evm_labs
 [submodule "EVM"]
 	path = EVM
