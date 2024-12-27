@@ -1,6 +1,6 @@
 [submodule "evm"]
 	path = evm
-	url = https://github.com/arfshukhov/evm_labs
+	url = https://github.com/arfshukhov/evm_labs.git
 [submodule "tidz"]
 	path = tidz
-	url = https://github.com/arfshukhov/Haskell_labs
+	url = https://github.com/arfshukhov/Haskell_labs.git
