@@ -1,6 +1,6 @@
-[submodule "TIDZ"]
-	path = TIDZ
+[submodule "evm"]
+	path = evm
 	url = https://github.com/arfshukhov/evm_labs
-[submodule "EVM"]
-	path = EVM
+[submodule "tidz"]
+	path = tidz
 	url = https://github.com/arfshukhov/Haskell_labs
